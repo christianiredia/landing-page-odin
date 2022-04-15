@@ -92,3 +92,39 @@ body {
     height: 300px;
     width: auto;
 }
+
+.card-wrapper {
+    margin: 100px;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card-image {
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 60px;
+    border: #3882f6;
+    border-style: solid;
+}
+
+.card-text {
+    text-align: center;
+    margin-top: -15px;
+}
+
+
+
