@@ -4,11 +4,13 @@ body {
     margin: 0;
     min-height: 100vh;
     font-family: 'Roboto', sans-serif;
+    
     }
 
 .header-entire-body {
     background-color: #1F2937;
     width: 100%;
+    
 }
 
 .header {
@@ -21,7 +23,7 @@ body {
 }
 
 .header-logo {
-    height: 50px;
+    height: 75px;
     width: auto;
 }
 
@@ -67,6 +69,13 @@ body {
    
            }
 
+.hero-third {
+            color: #E5E7eb;
+            font-size: 18px;
+            margin-top: -20px;
+           
+                   }
+
 .sign-up-button {
     background-color: #3882f6;
     color: white;
@@ -79,7 +88,7 @@ body {
     align-items: center;
 }
 
-.business {
+.christian {
     height: 300px;
     width: auto;
 }
