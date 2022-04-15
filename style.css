@@ -51,6 +51,7 @@ body {
     align-self: center;
     margin-right: 100px;
     inline-size: 400px;
+   
           
 }
 
@@ -148,6 +149,59 @@ h2 {
        font-size: 32px;
        
        }
+
+       .call-to-action-wrapper {
+           margin: 100px;
+       }
+
+       .call-to-action-container {
+           background-color: #3882f6;
+           display: flex;
+           justify-content: space-around;
+           align-items: center;
+           margin-left: 300px;
+           margin-right: 300px;
+           border-radius: 10px;
+           padding: 50px;
+       }
+
+       h3 {
+           color: #E5E7eb;
+           padding: 0px;
+           margin: 0px;
+       }
+
+       .call-to-action-text {
+           color: #E5E7eb;
+           padding: 0px;
+           margin: 0px;
+       }
+
+       .sign-up-button-two {
+           border: 2px solid #E5E7eb;
+           background-color: #3882f6;
+           color: #E5E7eb;
+           padding-left: 25px;
+           padding-right: 25px;
+           padding-top: 5px;
+           padding-bottom: 5px;
+           border-radius: 10px;
+
+                             }
+
+        .footer-wrapper {
+            background-color: #1F2937
+        }
+
+        .footer {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size:  18px;
+            color: #E5E7eb;
+            margin: 10px;
+
+        }
 
 
 
